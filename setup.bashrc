@@ -1,0 +1,4 @@
+export WORKSPACE=$PWD
+export PATH=$PATH:$WORKSPACE
+source keys.env
+export OPENAI_API_KEY=$OPENAI_API_KEY
